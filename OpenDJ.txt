@@ -1,0 +1,13 @@
+dn: cn=Windchill_13.0,o=ptc
+cn: Windchill_13.0
+objectClass: ds-cfg-branch
+
+---------------------------
+
+dn:cn=user,cn=Windchill_12.1,o=ptc
+cn: user
+objectClass: ds-cfg-branch
+
+---------------------------
+
+people
