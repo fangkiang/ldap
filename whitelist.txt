@@ -1,0 +1,1 @@
+xconfmanager -s "worker.exe.whitelist.prefixes=C:\|D:\|G:\|/|nohup" -t codebase/WEB-INF/conf/wvs.properties -p
